@@ -2,7 +2,7 @@
 layout: default
 ---
  
-### PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
  Results-driven Software Analyst with proven ability to triage and resolve technical issues within web, software, and digital applications. Transforms business requirements into functional engineering specifications. Skilled in facilitating Scrum ceremonies and providing valuable insights for production operations support. Proficient in creating monitors, alerts, and dashboards to enhance business and engineering initiatives.
 
 ## WORK EXPERIENCE
