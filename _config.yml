@@ -7,3 +7,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Mark J. Escott
 description: Software Analyst, Systems Analyst, Technical Business Analyst. Cybersecurity geek.
+contact:
+- email: mescott@pm.me
+- website: https://www.linkedin.com/in/mjescott/
