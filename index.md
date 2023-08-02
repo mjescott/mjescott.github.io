@@ -38,6 +38,10 @@ Summa Cum Laude | Winner, Outstanding Student Award
 
 ## **SKILLS**
 - Systems Software Analysis
+- Python
+- Golang
+- Docker, Kubernetes
+- AWS
 - Team Leadership and Management
 - Software Development Lifecycle (SDLC)
 - Business Requirements Analysis
