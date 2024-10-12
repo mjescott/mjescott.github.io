@@ -32,12 +32,14 @@ Results-driven Product Owner with 22 years of experience in software development
 **iHeartMedia** — Cincinnati, OH  
 *June 2002 to July 2021*
 
-- Directed a nationwide team of technical analysts responsible for supporting a SaaS platform across 2,000+ radio brands, including the iHeartRadio suite of applications.
-- Provided comprehensive technical support for iHeartRadio’s extensive podcast catalog, ensuring optimal performance and user experience.
+- Directed nationwide team of technical analysts supporting a proprietary SaaS platform across 2,000+ radio brands, including the iHeartRadio suite of applications.
+- Product lead for strategic third party partner platforms and technical integrations. 
+- Provided comprehensive technical support for iHeartRadio’s extensive podcast catalog, implementing product improvements ensuring optimal performance and user experience.
 - Designed and implemented cutting-edge security measures that significantly reduced risks to sensitive data and company assets.
 - Developed and deployed automation strategies that streamlined operations, improving team productivity and operational efficiency.
-- Created an API endpoint to integrate multiple support systems, driving enhanced process efficiency and coordination.
+- Engineered an API integration to integrate multiple support systems, driving enhanced process efficiency and coordination.
 - Recipient of the iHeartRadio Rockstar Award for outstanding contributions to the organization.
+- Mentored direct reports, fostering career growth and professional development.
 
 ---
 
