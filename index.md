@@ -2,54 +2,101 @@
 layout: default
 ---
  
-## PROFESSIONAL SUMMARY
- Results-driven Software Analyst with proven ability to triage and resolve technical issues within web, software, and digital applications. Transforms business requirements into functional engineering specifications. Skilled in facilitating Scrum ceremonies and providing valuable insights for production operations support. Proficient in creating monitors, alerts, and dashboards to enhance business and engineering initiatives.
+# Mark Escott
+**Certified Scrum Product Owner / Systems Analyst**  
+Cincinnati, OH
 
-## WORK EXPERIENCE
+---
 
-#### Stellar Elements, Inc.
+## Summary
 
-#### Sr. Technical Business Analyst
-August 2021–Present
-- Provides Tier 2 support for B2B software integration, ensuring efficient system functioning and customer satisfaction.
-- Successfully triage and resolve issue escalations from support teams and stakeholders, prioritizing critical problems for swift resolution.
-- Consults on production support initiatives, contributing to enhanced system performance and operational efficiency.
-- Bridges the gap between technical and non-technical stakeholders by translating business requirements into detailed functional engineering specifications.
-- Facilitates Scrum ceremonies, fostering effective collaboration and communication within the development team.
-- Contributes to software development in a Golang/Kubernetes development stack, collaborating with the team to build and enhance applications utilizing innovative technologies.
+Results-driven Product Owner with 22 years of experience in software development, technical business analysis, and digital operations. Proven expertise in Agile Scrum, software testing, and product management. Skilled in business analysis, SQL, and Python. Possesses a Bachelor's degree in Information Technology and holds a Certified Scrum Product Owner certification. Authorized to work in the US for any employer.
 
+---
 
-#### iHeartMedia, Inc.
+## Work Experience
 
-#### Sr. Director, Digital Applications Support
-June 2002–July 2021
-- Managed a nationwide team of software support analysts, overseeing web platform support for over 2,000 radio brands, including the iHeartRadio suite of applications.
-- Provided extensive support for iHeartRadio's catalog of 5,000+ podcasts.
-- Led the maintenance of a portfolio of over 10,000 domain names and DNS zones, ensuring proper management and availability.
-- Implemented robust security measures to prioritize data and user security, effectively reducing risk to company assets.
-- Designed and executed automation strategies, significantly improving productivity and operational efficiency for the support team.
+### Product Owner, Sr. Technical Business Analyst  
+**Stellar Elements** — Cincinnati, OH  
+*August 2021 to Present*
 
-## EDUCATION
+- Spearheaded the management of ServiceNow integration, including the creation of reports, dashboards, and gathering requirements for critical data collection initiatives.
+- Engineered and implemented production support frameworks for complex software integrations, ensuring seamless system functionality and high levels of customer satisfaction.
+- Reduced production support response time from over 2 weeks to under 24 hours.
+- Triaged and resolved escalated technical issues from support teams and stakeholders, prioritizing mission-critical incidents for swift resolution and minimizing downtime.
+- Established and optimized production support strategies, significantly improving system performance and operational efficiency.
+- Acted as a vital liaison between technical teams and business stakeholders, translating business requirements into actionable, detailed engineering specifications.
+- Led Agile Scrum ceremonies, promoting team collaboration, transparency, and continual process improvement within the development cycle.
+- Contributed to the software development lifecycle, leveraging advanced technologies to enhance and build innovative applications.
 
-#### Southern New Hampshire University
-2015 - 2020 
-Bachelor of Science, Information Technologies. Cybersecurity
-Summa Cum Laude | Winner, Outstanding Student Award
+### Sr. Digital Operations Director, Support Engineer  
+**iHeartMedia** — Cincinnati, OH  
+*June 2002 to July 2021*
 
-## **SKILLS**
-- Systems Software Analysis
+- Directed a nationwide team of technical analysts responsible for supporting a SaaS platform across 2,000+ radio brands, including the iHeartRadio suite of applications.
+- Provided comprehensive technical support for iHeartRadio’s extensive podcast catalog, ensuring optimal performance and user experience.
+- Designed and implemented cutting-edge security measures that significantly reduced risks to sensitive data and company assets.
+- Developed and deployed automation strategies that streamlined operations, improving team productivity and operational efficiency.
+- Created an API endpoint to integrate multiple support systems, driving enhanced process efficiency and coordination.
+- Recipient of the iHeartRadio Rockstar Award for outstanding contributions to the organization.
+
+---
+
+## Education
+
+**Bachelor's Degree in Information Technology**  
+Southern New Hampshire University — Manchester, NH  
+*August 2015 to May 2020*
+
+---
+
+## Skills
+
+- Agile
+- Requirements Gathering
+- SDLC
+- Scrum
+- Business Analysis
+- Jira
+- Software Testing
+- Product Management
+- Software Development
+- APIs
 - Python
-- Golang
-- Docker, Kubernetes
-- AWS
-- Team Leadership and Management
-- Software Development Lifecycle (SDLC)
-- Business Requirements Analysis
-- Agile Development Methodologies
-- Issue Resolution and Troubleshooting
-- Cross-Functional Collaboration
-- Test Planning and Execution
-- Performance Monitoring and Optimization
-- Data Security and Risk Reduction
-- Automation Implementation
+- SQL
+- REST
+- Git
+- Systems Analysis
+- Linux
 
+---
+
+## Links
+
+- [Personal Website](https://mjescott.github.io)
+- [LinkedIn Profile](https://www.linkedin.com/in/mjescott)
+
+---
+
+## Certifications and Licenses
+
+### Certified Scrum Product Owner  
+*September 2024 to September 2026*
+
+- Maximizes product value through effective backlog management and prioritization.
+- Collaborates with stakeholders to gather requirements and align product vision with business goals.
+- Develops clear user stories and acceptance criteria for the Scrum team.
+- Actively participates in sprint planning and review meetings.
+- Communicates product vision and goals to ensure team alignment.
+- Conducts market research to inform product strategy.
+- Fosters a collaborative environment to drive product success.
+
+### React Essentials  
+*December 2022 to Present*  
+Issued by Big Nerd Ranch.  
+Earners of the React Essentials Badge have successfully completed Big Nerd Ranch's React Essentials course, which focuses on the foundations of React development.
+
+### Explore Machine Learning  
+*February 2024 to Present*  
+Issued by Big Nerd Ranch.  
+Earners of the Explore Machine Learning have successfully completed Big Nerd Ranch's Explore Machine Learning course, which teaches Machine Learning fundamentals, along with its practical use in application development.
