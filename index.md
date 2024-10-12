@@ -79,22 +79,22 @@ Southern New Hampshire University — Manchester, NH
 
 ## Certifications and Licenses
 
-### [Certified Scrum Product Owner®](https://bcert.me/sojvbkeip)  
-*September 2024 to September 2026*
-Issued by ScrumAlliance
-Maximizes product value through effective backlog management and prioritization, collaborates with stakeholders to align the product vision with business goals. Develops clear user stories, participates in sprint planning, and fosters a collaborative environment to drive success and ensure team alignment.
+### Certified Scrum Product Owner®  
+*September 2024 to September 2026*  
+Issued by [ScrumAlliance](https://bcert.me/sojvbkeip)  
+Maximizes product value through effective backlog management and prioritization, collaborates with stakeholders to align the product vision with business goals. Develops clear user stories, participates in sprint planning, and fosters a collaborative environment to drive success and ensure team alignment.  
 
-### [Explore Machine Learning](https://www.credly.com/badges/3da6db2a-3f01-418f-ac12-866049dbd70c/linked_in_profile)  
+### Explore Machine Learning  
 *February 2024 to Present*  
-Issued by Big Nerd Ranch.  
+Issued by [Big Nerd Ranch](https://www.credly.com/badges/3da6db2a-3f01-418f-ac12-866049dbd70c/linked_in_profile)  
 Machine Learning fundamentals, along with its practical use in application development.
 
 ### Adult and Pediatric First Aid/CPR/AEDAdult and Pediatric First Aid/CPR/AED
-*February 2023 to February 2025*
-Issued by American Red Cross
-Credential ID 0141B5E
+*February 2023 to February 2025*  
+Issued by American Red Cross  
+Credential ID 0141B5E  
 
-### [React Essentials](https://www.credly.com/badges/2b1f7996-48dd-416c-bf7a-a5363959f396/linked_in_profile)  
+### React Essentials  
 *December 2022 to Present*  
-Issued by Big Nerd Ranch.  
+Issued by [Big Nerd Ranch](https://www.credly.com/badges/2b1f7996-48dd-416c-bf7a-a5363959f396/linked_in_profile)  
 Foundations of React development.
