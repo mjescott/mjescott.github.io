@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
- 
-# Mark Escott
-**Certified Scrum Product Owner / Systems Analyst**  
+
+**Certified Scrum Product Owner® / Systems Analyst**  
 Cincinnati, OH
 
 ---
@@ -52,22 +51,22 @@ Southern New Hampshire University — Manchester, NH
 
 ## Skills
 
+- APIs
 - Agile
+- Business Analysis
+- Git
+- Jira
+- Linux
+- Product Management
+- Python
+- REST
 - Requirements Gathering
 - SDLC
 - Scrum
-- Business Analysis
-- Jira
-- Software Testing
-- Product Management
 - Software Development
-- APIs
-- Python
+- Software Testing
 - SQL
-- REST
-- Git
 - Systems Analysis
-- Linux
 
 ---
 
@@ -80,23 +79,22 @@ Southern New Hampshire University — Manchester, NH
 
 ## Certifications and Licenses
 
-### Certified Scrum Product Owner  
+### [Certified Scrum Product Owner®](https://bcert.me/sojvbkeip)  
 *September 2024 to September 2026*
+Issued by ScrumAlliance
+Maximizes product value through effective backlog management and prioritization, collaborates with stakeholders to align the product vision with business goals. Develops clear user stories, participates in sprint planning, and fosters a collaborative environment to drive success and ensure team alignment.
 
-- Maximizes product value through effective backlog management and prioritization.
-- Collaborates with stakeholders to gather requirements and align product vision with business goals.
-- Develops clear user stories and acceptance criteria for the Scrum team.
-- Actively participates in sprint planning and review meetings.
-- Communicates product vision and goals to ensure team alignment.
-- Conducts market research to inform product strategy.
-- Fosters a collaborative environment to drive product success.
-
-### React Essentials  
-*December 2022 to Present*  
-Issued by Big Nerd Ranch.  
-Earners of the React Essentials Badge have successfully completed Big Nerd Ranch's React Essentials course, which focuses on the foundations of React development.
-
-### Explore Machine Learning  
+### [Explore Machine Learning](https://www.credly.com/badges/3da6db2a-3f01-418f-ac12-866049dbd70c/linked_in_profile)  
 *February 2024 to Present*  
 Issued by Big Nerd Ranch.  
-Earners of the Explore Machine Learning have successfully completed Big Nerd Ranch's Explore Machine Learning course, which teaches Machine Learning fundamentals, along with its practical use in application development.
+Machine Learning fundamentals, along with its practical use in application development.
+
+### Adult and Pediatric First Aid/CPR/AEDAdult and Pediatric First Aid/CPR/AED
+*February 2023 to February 2025*
+Issued by American Red Cross
+Credential ID 0141B5E
+
+### [React Essentials](https://www.credly.com/badges/2b1f7996-48dd-416c-bf7a-a5363959f396/linked_in_profile)  
+*December 2022 to Present*  
+Issued by Big Nerd Ranch.  
+Foundations of React development.
