@@ -89,7 +89,7 @@ Maximizes product value through effective backlog management and prioritization,
 Issued by [Big Nerd Ranch](https://www.credly.com/badges/3da6db2a-3f01-418f-ac12-866049dbd70c/linked_in_profile)  
 Machine Learning fundamentals, along with its practical use in application development.
 
-### Adult and Pediatric First Aid/CPR/AEDAdult and Pediatric First Aid/CPR/AED
+### Adult and Pediatric First Aid/CPR/AED
 *February 2023 to February 2025*  
 Issued by American Red Cross  
 Credential ID 0141B5E  
