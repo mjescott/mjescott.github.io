@@ -3,7 +3,8 @@ layout: default
 ---
 
 **Certified Scrum Product Owner® / Systems Analyst**  
-Cincinnati, OH
+Cincinnati, OH\
+<sub>_Updated: Apr 21, 2025_</sub>
 
 ---
 
