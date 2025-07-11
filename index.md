@@ -4,7 +4,7 @@ layout: default
 
 **Certified Scrum Product Owner® / Systems Analyst**  
 Cincinnati, OH\
-<sub>_Updated: Apr 21, 2025_</sub>
+<sub>_Updated: Jul 11, 2025_</sub>
 
 ---
 
@@ -17,7 +17,7 @@ Results-driven Product Owner with 22 years of experience in software development
 ## Work Experience
 
 ### Product Owner, Sr. Technical Business Analyst  
-**Stellar Elements** — Cincinnati, OH  
+**Amdocs Studios** — Cincinnati, OH  
 *August 2021 to Present*
 
 - Spearheaded the management of ServiceNow integration, including the creation of reports, dashboards, and gathering requirements for critical data collection initiatives.
