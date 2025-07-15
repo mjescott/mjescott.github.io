@@ -17,7 +17,7 @@ Dynamic Product Owner with 10+ years of experience driving SaaS product developm
 ## Work Experience
 
 ### Product Owner / Business Analyst
-**Chick-fil-A, Inc.**
+**Chick-fil-A, Inc.** - Cincinnati, OH / Atlanta, GA
 *August 2021 to Present*
 
 - Executed strategic vision for ServiceNow and other API integrations, aligning product roadmaps with business goals to enhance customer satisfaction and reduce churn. 
