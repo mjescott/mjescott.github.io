@@ -4,43 +4,46 @@ layout: default
 
 **Certified Scrum Product Owner® / Systems Analyst**  
 Cincinnati, OH\
-<sub>_Updated: Jul 11, 2025_</sub>
+<sub>_Updated: Jul 15, 2025_</sub>
 
 ---
 
 ## Summary
 
-Results-driven Product Owner with 22 years of experience in software development, technical business analysis, and digital operations. Proven expertise in Agile Scrum, software testing, and product management. Skilled in ServiceNow, business analysis, SQL, and Python. Possesses a Bachelor's degree in Information Technology and holds a Certified Scrum Product Owner certification. Authorized to work in the US for any employer.
+Dynamic Product Owner with 10+ years of experience driving SaaS product development through Agile methodologies, stakeholder collaboration, and strategic backlog management. Adept at translating business needs into technical solutions, optimizing user experiences, and accelerating delivery timelines. Holds a Bachelor’s in Information Technology and Certified Scrum Product Owner certification. Skilled in JIRA, Confluence, SQL, and Python. Authorized to work in the US for any employer. 
 
 ---
 
 ## Work Experience
 
-### Product Owner, Sr. Technical Business Analyst  
+### Product Owner / Business Analyst
+**Chick-fil-A, Inc.**
+*August 2021 to Present*
+
+- Executed strategic vision for ServiceNow and other API integrations, aligning product roadmaps with business goals to enhance customer satisfaction and reduce churn. 
+- Authored and refined user stories in JIRA, maintaining a prioritized backlog to drive sprint goals and expand market reach for SaaS solutions. 
+- Bridged communication between stakeholders and development teams, translating complex requirements into actionable specifications for seamless implementation. 
+- Slashed support response times from two weeks to under 24 hours by implementing robust issue resolution frameworks, boosting operational efficiency. 
+- Led Scrum ceremonies, fostering collaboration and delivering high-quality releases under tight deadlines in a fast-paced environment.
+
+### Product Owner / Senior Technical Business Analyst  
 **Amdocs Studios** — Cincinnati, OH  
 *August 2021 to Present*
 
-- Spearheaded the management of ServiceNow integration, including the creation of reports, dashboards, and gathering requirements for critical data collection initiatives.
-- Engineered and implemented production support frameworks for complex software integrations, ensuring seamless system functionality and high levels of customer satisfaction.
-- Reduced production support response time from over 2 weeks to under 24 hours.
-- Triaged and resolved escalated technical issues from support teams and stakeholders, prioritizing mission-critical incidents for swift resolution and minimizing downtime.
-- Established and optimized production support strategies, significantly improving system performance and operational efficiency.
-- Acted as a vital liaison between technical teams and business stakeholders, translating business requirements into actionable, detailed engineering specifications.
-- Led Agile Scrum ceremonies, promoting team collaboration, transparency, and continual process improvement within the development cycle.
-- Contributed to the software development lifecycle, leveraging advanced technologies to enhance and build innovative applications.
+- Directed product vision for client SaaS solutions, aligning strategies with market demands to drive innovation and client retention. 
+- Crafted and prioritized user stories in JIRA, enabling agile teams to deliver measurable business value across diverse client portfolios. 
+- Facilitated stakeholder alignment, clarifying complex needs to ensure flawless execution of project deliverables. 
+- Optimized issue tracking and resolution processes, maintaining project momentum and quality through proactive risk mitigation. 
+- Collaborated with marketing and support teams to execute launch plans, enhancing adoption and customer feedback loops. 
 
-### Sr. Digital Operations Director, Support Engineer  
+### Senior Director, Digital Operations / Support Engineer
 **iHeartMedia** — Cincinnati, OH  
-*June 2002 to July 2021*
+*June 2015 to July 2021*
 
-- Directed nationwide team of technical analysts supporting a proprietary SaaS platform across 2,000+ radio brands, including the iHeartRadio suite of applications.
-- Product lead for strategic third party partner platforms and technical integrations. 
-- Provided comprehensive technical support for iHeartRadio’s extensive podcast catalog, implementing product improvements ensuring optimal performance and user experience.
-- Designed and implemented cutting-edge security measures that significantly reduced risks to sensitive data and company assets.
-- Developed and deployed automation strategies that streamlined operations, improving team productivity and operational efficiency.
-- Engineered an API integration to integrate multiple support systems, driving enhanced process efficiency and coordination.
-- Recipient of the iHeartRadio Rockstar Award for outstanding contributions to the organization.
-- Mentored direct reports, fostering career growth and professional development.
+- Led technical analysts supporting a proprietary SaaS platform for 2,000+ radio brands, including iHeartRadio, enhancing user experience and performance. 
+- Spearheaded API integrations to streamline support systems, improving process efficiency and coordination across teams. 
+- Implemented automation strategies, boosting team productivity and operational scalability for podcast and digital platforms. 
+- Designed security measures to protect sensitive data, significantly reducing risks to company assets. 
 
 ---
 
