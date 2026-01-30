@@ -4,13 +4,13 @@ layout: default
 
 **Certified Scrum Product Owner® / Systems Analyst / Business Analyst**  
 Cincinnati, OH\
-<sub>_Updated: Jul 15, 2025_</sub>
+<sub>_Updated: Jan 30, 2026_</sub>
 
 ---
 
 ## Summary
 
-Dynamic Product Owner with 10+ years of experience driving SaaS product development through Agile methodologies, stakeholder collaboration, and strategic backlog management. Adept at translating business needs into technical solutions, optimizing user experiences, and accelerating delivery timelines. Holds a Bachelor’s in Information Technology and Certified Scrum Product Owner certification. Skilled in JIRA, Confluence, SQL, and Python. Authorized to work in the US for any employer. 
+Results-driven Technical Product Owner and Operations Specialist with extensive experience leading SaaS product development using Agile methodologies. Expert in managing cross-functional teams, prioritizing strategic backlogs, and collaborating with stakeholders to translate business requirements into high-impact, user-focused solutions. Proven track record optimizing user experiences, accelerating delivery timelines, and driving organizational initiatives with operational excellence. Certified Scrum Product Owner (CSPO) with a Bachelor’s in Information Technology. Proficient in Jira, SQL, and Python. 
 
 ---
 
