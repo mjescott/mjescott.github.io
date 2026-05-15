@@ -26,7 +26,7 @@ Cincinnati, OH\
 
 ## Summary
 
-Results-driven Technical Product Owner and Operations Specialist with extensive experience leading SaaS product development using Agile methodologies. Expert in managing cross-functional teams, prioritizing strategic backlogs, and collaborating with stakeholders to translate business requirements into high-impact, user-focused solutions. Proven track record optimizing user experiences, accelerating delivery timelines, and driving organizational initiatives with operational excellence. Certified Scrum Product Owner (CSPO) with a Bachelor’s in Information Technology. Proficient in Jira, SQL, and Python. 
+Results-driven Senior Technical Business Analyst and Technology Operations Leader with 20+ years of experience delivering enterprise implementations, systems integrations, UAT leadership, and phased deployment initiatives in complex environments. Proven ability to translate business requirements into scalable technical solutions, align cross-functional stakeholders, and drive high-quality releases with minimal operational disruption. Deep expertise in ServiceNow, API integrations, Jira workflow optimization, data migration, and Agile delivery, with a strong record of improving processes, accelerating issue resolution, and enhancing business performance through technology transformation.
 
 ---
 
@@ -53,6 +53,7 @@ Results-driven Technical Product Owner and Operations Specialist with extensive 
 - Spearheaded API integrations to streamline support systems, improving process efficiency by 25%, and promoting coordination across cross-functional teams.
 - Implemented automation strategies, boosting team productivity and operational scalability for podcast and digital platforms.
 - Designed security measures to protect sensitive data, significantly reducing risks to company assets.
+  
 ---
 
 ## Education
@@ -63,25 +64,12 @@ Southern New Hampshire University — Manchester, NH
 
 ---
 
-## Skills
+## Core Competencies 
 
-- APIs
-- Agile
-- Business Analysis
-- Git
-- Jira
-- Linux
-- Product Management
-- Python
-- REST
-- Requirements Gathering
-- SDLC
-- Scrum
-- ServiceNow
-- Software Development
-- Software Testing
-- SQL
-- Systems Analysis
+- Testing & Deployment: End-to-End Testing, UAT, System Integration Testing, Test Planning & Execution, Defect Triage & Resolution, Test Data Management, Pilot/Soft/Phased Launches, Mock Cutover Support
+- Tools & Platforms: Jira (Advanced Workflow & Reporting), ServiceNow, API Integrations, Data Migration
+- Methodologies: Agile/Scrum, Release Management, Stakeholder Collaboration, Change Management, Process Automation
+- Leadership & Collaboration: Cross-Functional Coordination, Risk & Issue Reporting, Business Partnering, Virtual Team Leadership 
 
 ---
 
