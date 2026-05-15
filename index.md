@@ -73,13 +73,6 @@ Southern New Hampshire University — Manchester, NH
 
 ---
 
-## Links
-
-- [Personal Website](https://mjescott.github.io)
-- [LinkedIn Profile](https://www.linkedin.com/in/mjescott)
-
----
-
 ## Certifications and Licenses
 
 ### ServiceNow Certified System Administrator (CSA)
