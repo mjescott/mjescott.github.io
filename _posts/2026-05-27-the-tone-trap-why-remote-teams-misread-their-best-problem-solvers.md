@@ -1,5 +1,5 @@
 ---
-title: The Tone Trap: Why Remote Teams Misread Their Best Problem Solvers
+title: "The Tone Trap: Why Remote Teams Misread Their Best Problem Solvers"
 date: 2026-05-27
 author: Mark Escott
 ---
