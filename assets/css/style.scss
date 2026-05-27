@@ -102,6 +102,14 @@
     border-bottom: 1px solid #eee;
   }
 
+  .mobile-post-header .logo-icon {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  border-radius: 4px;           /* Optional: slight rounding */
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1); /* Optional subtle depth */
+}
+
   /* Add breathing room after the article */
   .post-page .wrapper section {
     margin-bottom: 2.5rem;
