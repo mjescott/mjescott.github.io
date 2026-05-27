@@ -16,11 +16,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <nav>
-    <a href="/">Home</a>
-    <a href="/blog/">Blog</a>
-  </nav>
-
+        
         {% if site.headshot %}
           <img src="{{site.headshot | relative_url}}" alt="Mark Escott Headshot" class="headshot" />
         {% endif %}
@@ -28,6 +24,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <h3>Contact</h3>
+        <p class="view"<a href="/blog/">Blog Posts</a></p>
         <p class="view"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         <p class="view"><a href="{{ site.website }}" target="_blank">LinkedIn</a></p>
 
