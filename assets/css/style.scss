@@ -83,6 +83,10 @@
     flex-direction: column;
   }
 
+  .post-page .wrapper footer {
+    order: 3;
+  }
+
   .post-page .wrapper header {
     order: 2;           /* Name + picture moves to bottom */
   }
