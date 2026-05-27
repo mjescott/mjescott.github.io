@@ -95,7 +95,14 @@
     order: 1;           /* Article (title, content, etc.) moves to top */
   }
 
-  /* Optional: Add breathing room after the article */
+  .post-page .mobile-post-header {
+    background: #f8f9fa;
+    padding: 1rem;
+    margin: -1rem -1rem 1.5rem -1rem; /* Full width feel */
+    border-bottom: 1px solid #eee;
+  }
+
+  /* Add breathing room after the article */
   .post-page .wrapper section {
     margin-bottom: 2.5rem;
   }
