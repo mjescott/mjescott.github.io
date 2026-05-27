@@ -71,3 +71,28 @@
 .read-more:hover {
   text-decoration: underline;
 }
+
+/* ========================
+   MOBILE: SHOW ARTICLE FIRST ON POST PAGES
+   ======================== */
+
+@media (max-width: 768px) {
+  
+  .post-page .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post-page .wrapper header {
+    order: 2;           /* Name + picture moves to bottom */
+  }
+
+  .post-page .wrapper section {
+    order: 1;           /* Article (title, content, etc.) moves to top */
+  }
+
+  /* Optional: Add breathing room after the article */
+  .post-page .wrapper section {
+    margin-bottom: 2.5rem;
+  }
+}
