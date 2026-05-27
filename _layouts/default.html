@@ -12,13 +12,13 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
-  <body>
+  <body class="{% if page.layout == 'post' %}post-page{% endif %}">
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.headshot %}
-          <img src="{{site.headshot | relative_url}}" alt="Mark Escott Headshot" class="headshot" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+          <img src="{{site.headshot | relative_url}}" alt="{{site.title}} Headshot" class="headshot" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
