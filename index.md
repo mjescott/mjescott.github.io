@@ -4,7 +4,7 @@ layout: default
 
 **Certified Scrum Product Owner® / Certified ServiceNow System Administrator / Business Systems Analyst / Agile Delivery**  
 Cincinnati, OH\
-<sub>_Updated: May 15, 2026_</sub>
+<sub>_Updated: {{ site.updated_date}}_</sub>
 
 ---
 
