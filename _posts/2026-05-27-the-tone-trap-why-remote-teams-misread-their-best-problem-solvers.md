@@ -4,7 +4,7 @@ date: 2026-05-27
 author: Mark Escott
 ---
 
-<img src="/assets/img/cyberco-remote-meeting-10160829.png" alt="Collaboration" style="float: right; margin: 10px 0 20px 20px; width: 45%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="/assets/img/cyberco-remote-meeting-10160829.png" alt="Remote Collaboration" style="float: right; margin: 10px 0 20px 20px; width: 45%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
      
 For remote teams, clear and constructive communication is essential. However, when a colleague shares direct feedback on a workflow process, perhaps pointing out inefficiencies or suggesting structural improvements, it can easily be misinterpreted in text or video format as overly critical.
 
