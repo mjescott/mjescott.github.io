@@ -3,6 +3,45 @@
 
 @import "jekyll-theme-minimal";
 
+/* ========================
+   SITE TITLE WITH LOGO
+   ======================== */
+
+.site-title {
+  margin: 0;
+}
+
+.site-title-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-title-link:hover {
+  opacity: 0.9;
+}
+
+.site-logo {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  flex-shrink: 0;
+  border-radius: 6px;
+}
+
+.site-title-link:hover .site-logo {
+  transform: scale(1.08);
+  transition: transform 0.2s ease;
+}
+
+.site-title h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  line-height: 1.1;
+}
+
 .headshot {
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
   border: 1px solid rgba(0, 0, 0, 0.08);
