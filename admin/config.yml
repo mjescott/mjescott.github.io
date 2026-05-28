@@ -4,9 +4,8 @@ backend:
   branch: master # Replace with your default branch (main or master)
   site_domain: mjescott.github.io
   # If using an external OAuth provider, add these lines:
-  base_url: https://api.netlify.com/api/v1
+  base_url: https://auth.mescott.workers.dev
   auth_endpoint: auth
-  site_id: 0d430d90-48fd-45a1-8335-f304f37e5b54
 
 media_folder: "assets/images/uploads" # Where images uploaded via the CMS will be saved
 public_folder: "/assets/images/uploads" # The path Jekyll will use to serve the images
