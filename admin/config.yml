@@ -7,6 +7,7 @@ backend:
   base_url: https://auth.mescott.workers.dev
   auth_endpoint: auth
 
+site_url: https://mjescott.github.io
 media_folder: "assets/images/uploads" # Where images uploaded via the CMS will be saved
 public_folder: "/assets/images/uploads" # The path Jekyll will use to serve the images
 
