@@ -197,7 +197,11 @@
   display: none !important;
 }
 
-@media (max-width: 768px) {
+/* ========================
+   MOBILE: SHOW ARTICLE FIRST ON POST PAGES
+   ======================== */
+
+@media (max-width: 960px) {   /* Increased from 768px to catch the problem range */
   
   .post-page .wrapper {
     display: flex;
@@ -249,4 +253,21 @@
   .post-page .wrapper section {
     margin-bottom: 2.5rem;
   }
+}
+
+/* Prevent weird jumps in mid-width range */
+@media (max-width: 960px) {
+  .post-page .wrapper header {
+    width: 100%;
+  }
+
+  .latest-posts {
+    max-width: 100%;
+  }
+}
+
+/* Make sure Latest Posts doesn't collapse awkwardly */
+.latest-posts a {
+  flex-wrap: wrap;           /* Allow date to wrap if needed */
+  gap: 8px;
 }
