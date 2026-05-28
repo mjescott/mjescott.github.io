@@ -4,7 +4,7 @@ backend:
   branch: master # Replace with your default branch (main or master)
   site_domain: mjescott.github.io
   # If using an external OAuth provider, add these lines:
-  base_url: https://api.netlify.com/auth/done 
+  base_url: https://api.netlify.com/api/v1
   auth_endpoint: auth
   site_id: 0d430d90-48fd-45a1-8335-f304f37e5b54
 
