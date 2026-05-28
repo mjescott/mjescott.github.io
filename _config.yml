@@ -14,5 +14,3 @@ csa_img: /assets/img/servicenow-certified-system-administrator-csa.png
 updated_date: May 27, 2026
 sass:
   style: compressed
-exclude:
-  - admin/
