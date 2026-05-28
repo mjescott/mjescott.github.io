@@ -5,11 +5,10 @@
 
 .headshot {
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
-  border: 1px solid rgba(0, 0, 0, 0.08); /* Faint baseline border */
+  border: 1px solid rgba(0, 0, 0, 0.08);
 }
 
 .headshot:hover {
-  /* Subtle illumination effect around the square frame */
   border-color: rgba(0, 0, 0, 0.15);
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.03);
 }
@@ -73,8 +72,12 @@
 }
 
 /* ========================
-   MOBILE: SHOW ARTICLE FIRST ON POST PAGES
+   MOBILE-ONLY POST HEADER
    ======================== */
+
+.mobile-post-header {
+  display: none !important;
+}
 
 @media (max-width: 768px) {
   
@@ -88,29 +91,43 @@
   }
 
   .post-page .wrapper header {
-    order: 2;           /* Name + picture moves to bottom */
+    order: 2;
   }
 
   .post-page .wrapper section {
-    order: 1;           /* Article (title, content, etc.) moves to top */
+    order: 1;
   }
 
+  /* Mobile Post Header */
   .post-page .mobile-post-header {
+    display: flex !important;
+    align-items: center;
+    padding: 14px 16px;
+    margin: -1rem -1rem 1.5rem -1rem;   /* Full width feel */
     background: #f8f9fa;
-    padding: 1rem;
-    margin: -1rem -1rem 1.5rem -1rem; /* Full width feel */
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #e1e4e8;
+  }
+
+  .mobile-post-header .home-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    text-decoration: none;
+    color: inherit;
+    font-weight: 600;
+    font-size: 1.1rem;
   }
 
   .mobile-post-header .logo-icon {
-  width: 32px;
-  height: 32px;
-  object-fit: contain;
-  border-radius: 4px;           /* Optional: slight rounding */
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1); /* Optional subtle depth */
-}
+    width: 34px;      /* Better size for mobile */
+    height: 34px;
+    object-fit: contain;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    flex-shrink: 0;
+  }
 
-  /* Add breathing room after the article */
+  /* Breathing room after article */
   .post-page .wrapper section {
     margin-bottom: 2.5rem;
   }
