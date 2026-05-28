@@ -25,18 +25,27 @@
 
         <h3>Contact</h3>
         <div class="contact-icons">
-          <a href="/blog/" title="Blog Posts" class="contact-link">
-            <img src="/assets/img/website.png" alt="Blog" class="contact-icon">
-          </a>
-          
           <a href="mailto:{{ site.email }}" title="Email" class="contact-link">
             <img src="/assets/img/envelope.png" alt="Email" class="contact-icon">
           </a>
-          
           <a href="{{ site.website }}" target="_blank" title="LinkedIn" class="contact-link">
             <img src="/assets/img/linkedin.png" alt="LinkedIn" class="contact-icon">
           </a>
         </div>
+
+        <!-- Latest Posts -->
+        <h3>Latest Posts</h3>
+        <ul class="latest-posts">
+          {% for post in site.posts limit: 10 %}
+            <li>
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+                <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+        <a href="/blog/" class="view-all-posts">View all posts →</a>
 
       </header>
       <section>
