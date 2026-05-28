@@ -2,8 +2,7 @@ backend:
   name: github
   repo: mjescott/mjescott.github.io
   branch: main
-  site_domain: mjescott.github.io
-  base_url: https://auth.mescott.workers.dev
+  base_url: https://authy.mescott.workers.dev
   auth_endpoint: /auth
 
 media_folder: "assets/images/uploads" # Where images uploaded via the CMS will be saved
