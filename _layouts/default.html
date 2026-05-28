@@ -15,7 +15,12 @@
   <body class="{% if page.layout == 'post' %}post-page{% endif %}">
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <div class="site-title">
+          <a href="{{ "/" | absolute_url }}" class="site-title-link">
+            <img src="/assets/mje_logo.png" alt="{{ site.title }}" class="site-logo">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          </a>
+        </div>
         
         {% if site.headshot %}
           <img src="{{site.headshot | relative_url}}" alt="{{site.title}} Headshot" class="headshot" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
@@ -26,7 +31,7 @@
         <h3>Contact</h3>
         <div class="contact-icons">
           <a href="mailto:{{ site.email }}" title="Email" class="contact-link">
-            <img src="/assets/img/envelope.png" alt="Email" class="contact-icon">
+            <img src="/assets/img/mail.png" alt="Email" class="contact-icon">
           </a>
           <a href="{{ site.website }}" target="_blank" title="LinkedIn" class="contact-link">
             <img src="/assets/img/linkedin.png" alt="LinkedIn" class="contact-icon">
