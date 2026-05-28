@@ -42,6 +42,10 @@
   line-height: 1.1;
 }
 
+/* ========================
+   HEADSHOT + GENERAL STYLES
+   ======================== */
+
 .headshot {
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
   border: 1px solid rgba(0, 0, 0, 0.08);
@@ -51,6 +55,10 @@
   border-color: rgba(0, 0, 0, 0.15);
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.03);
 }
+
+/* ========================
+   BLOG STYLES
+   ======================== */
 
 .blog-posts {
   max-width: 780px;
@@ -130,8 +138,8 @@
 }
 
 .contact-icon {
-  width: 42px;
-  height: 42px;
+  width: 36px;
+  height: 36px;
   object-fit: contain;
   opacity: 0.85;
   transition: opacity 0.2s ease;
@@ -142,7 +150,7 @@
 }
 
 /* ========================
-   LATEST POSTS LIST
+   LATEST POSTS
    ======================== */
 
 .latest-posts {
@@ -176,7 +184,6 @@
   flex-shrink: 0;
 }
 
-/* View All Posts Link */
 .view-all-posts {
   display: inline-block;
   color: #0366d6;
@@ -198,27 +205,19 @@
 }
 
 /* ========================
-   MOBILE: SHOW ARTICLE FIRST ON POST PAGES
+   MOBILE LAYOUT FOR POST PAGES
    ======================== */
 
-@media (max-width: 960px) {   /* Increased from 768px to catch the problem range */
+@media (max-width: 960px) {
   
   .post-page .wrapper {
     display: flex;
     flex-direction: column;
   }
 
-  .post-page .wrapper footer {
-    order: 3;
-  }
-
-  .post-page .wrapper header {
-    order: 2;
-  }
-
-  .post-page .wrapper section {
-    order: 1;
-  }
+  .post-page .wrapper footer { order: 3; }
+  .post-page .wrapper header { order: 2; }
+  .post-page .wrapper section { order: 1; }
 
   /* Mobile Post Header */
   .post-page .mobile-post-header {
@@ -249,25 +248,20 @@
     flex-shrink: 0;
   }
 
-  /* Breathing room after article */
+  /* Breathing room */
   .post-page .wrapper section {
     margin-bottom: 2.5rem;
   }
-}
 
-/* Prevent weird jumps in mid-width range */
-@media (max-width: 960px) {
-  .post-page .wrapper header {
+  /* Override theme absolute positioning */
+  .post-page header ul {
+    position: static !important;
+    right: auto !important;
+    top: auto !important;
+  }
+
+  .post-page header {
     width: 100%;
+    padding: 0 1rem;
   }
-
-  .latest-posts {
-    max-width: 100%;
-  }
-}
-
-/* Make sure Latest Posts doesn't collapse awkwardly */
-.latest-posts a {
-  flex-wrap: wrap;           /* Allow date to wrap if needed */
-  gap: 8px;
 }
