@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: mjescott/mjescott.github.io
-  branch: main
+  branch: master
   base_url: https://authy.mescott.workers.dev
   auth_endpoint: /auth
 
