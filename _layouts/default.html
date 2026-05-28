@@ -24,9 +24,19 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <h3>Contact</h3>
-        <p class="view"><a href="/blog/">Blog Posts</a></p>
-        <p class="view"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-        <p class="view"><a href="{{ site.website }}" target="_blank">LinkedIn</a></p>
+        <div class="contact-icons">
+          <a href="/blog/" title="Blog Posts" class="contact-link">
+            <img src="/assets/img/website.png" alt="Blog" class="contact-icon">
+          </a>
+          
+          <a href="mailto:{{ site.email }}" title="Email" class="contact-link">
+            <img src="/assets/img/envelope.png" alt="Email" class="contact-icon">
+          </a>
+          
+          <a href="{{ site.website }}" target="_blank" title="LinkedIn" class="contact-link">
+            <img src="/assets/img/linkedin.png" alt="LinkedIn" class="contact-icon">
+          </a>
+        </div>
 
       </header>
       <section>
