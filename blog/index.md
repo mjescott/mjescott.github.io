@@ -1,6 +1,7 @@
 ---
 title: Blog
 permalink: /blog/
+layout: post
 ---
 
 {% if site.posts.size > 0 %}
