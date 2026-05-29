@@ -1,7 +1,7 @@
 ---
 title: Blog
 permalink: /blog/
-layout: post
+layout: subpage
 ---
 
 {% if site.posts.size > 0 %}

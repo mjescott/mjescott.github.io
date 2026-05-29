@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<!-- Mobile-only subpage header -->
+<div class="mobile-post-header">
+  <a href="/" class="home-link">
+    <img src="/assets/img/mje_logo.png" alt="Home" class="logo-icon"> <!-- Optional small logo -->
+    <span>{{ site.author | default: "M. J. Escott" }}</span>
+  </a>
+</div>
+
+{{content}}
+
+
+{% include giscus.html %}
