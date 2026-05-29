@@ -282,3 +282,9 @@
     padding: 0 1rem;
   }
 }
+header {
+  position:static !important;
+}
+header ul {
+  position: fixed !important;
+}
