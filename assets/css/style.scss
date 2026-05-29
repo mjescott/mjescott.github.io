@@ -208,19 +208,10 @@
    MOBILE LAYOUT FOR POST PAGES
    ======================== */
 
-/* ========================
-   HIDE SITE TITLE & HEADSHOT ON MOBILE POST PAGES
-   ======================== */
-
 @media (max-width: 960px) {
   
-  /* Hide main site title (logo + h1) on post pages only */
-  .post-page .site-title {
-    display: none;
-  }
-
-  /* Hide headshot on post pages only */
-  .post-page .headshot {
+  /* Hide main header elements on sub/post pages */
+  .post-page .site-title, .headshot, .site-description {
     display: none;
   }
 }
