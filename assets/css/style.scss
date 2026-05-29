@@ -211,7 +211,7 @@
 @media (max-width: 960px) {
   
   /* Hide main header elements on sub/post pages */
-  .post-page .site-title, .headshot, .site-description {
+  .post-page .site-title, .post-page .headshot, .post-page .site-description {
     display: none;
   }
 }
