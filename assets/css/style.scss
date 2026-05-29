@@ -273,9 +273,8 @@
     padding: 0 1rem;
   }
 }
-header {
-  position:static !important;
-}
-header ul {
-  position: inherit !important;
+
+/* Override theme absolute positioning */
+header, footer, header ul {
+  position:inherit !important;
 }
