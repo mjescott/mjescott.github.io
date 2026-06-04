@@ -274,6 +274,15 @@
   }
 }
 
+/* default post image behavior */
+.post img {
+   float: right; 
+   margin: 10px 0 20px 20px;
+   width: 45%; 
+   border-radius: 10px; 
+   box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+}
+
 /* Override theme absolute positioning */
 header, footer, header ul {
   position:inherit !important;
