@@ -28,21 +28,7 @@ Cincinnati, OH\
 
 Product Owner/Business Analyst with 20 years of experience spanning technical operations leadership and Agile delivery. Currently embedded on Chick-fil-A's ServiceNow platform team via Amdocs Studios, where I support three client-side Product Owners across requirements gathering, story writing, and end-to-end delivery for ServiceNow and API integration initiatives.
 
-Before Amdocs, I spent 15 years at iHeartMedia leading distributed technical support operations, eventually as Senior Director, Digital Applications Support — building and scaling teams, driving process automation, and keeping digital platforms running across a geographically dispersed organization.
-
-I like taking ambiguous, messy problems and turning them into systems that actually work. My favorite kind of project starts with "nobody quite owns this yet" and ends with a clear, documented process someone else can run without me in the room.
-
-CSPO and ServiceNow CSA certified. Bachelor's in Information Technology (Summa Cum Laude), Southern New Hampshire University.
----
-
-## Work Experience
-
-### Product Owner / Senior Technical Business Analyst  
-## Summary
-
-Product Owner/Business Analyst with 20 years of experience spanning technical operations leadership and Agile delivery. Currently embedded on Chick-fil-A's ServiceNow platform team via Amdocs Studios, where I support three client-side Product Owners across requirements gathering, story writing, and end-to-end delivery for ServiceNow and API integration initiatives.
-
-Before Amdocs, I spent 15 years at iHeartMedia leading distributed technical support operations, eventually as Senior Director, Digital Applications Support — building and scaling teams, driving process automation, and keeping digital platforms running across a geographically dispersed organization.
+Before Amdocs, I spent nearly 20 years at iHeartMedia leading distributed technical support operations, eventually as Senior Director, Digital Applications Support — building and scaling teams, driving process automation, and keeping digital platforms running across a geographically dispersed organization.
 
 I like taking ambiguous, messy problems and turning them into systems that actually work. My favorite kind of project starts with "nobody quite owns this yet" and ends with a clear, documented process someone else can run without me in the room.
 
@@ -53,7 +39,7 @@ CSPO and ServiceNow CSA certified. Bachelor's in Information Technology (Summa C
 ## Work Experience
 
 ### Product Owner / Business Analyst
-**Amdocs Studios** — Cincinnati, OH (embedded with Chick-fil-A, Inc.)
+**Amdocs Studios** - Cincinnati, OH (embedded with Chick-fil-A, Inc.)\
 *August 2021 to Present*
 
 I'm embedded within Chick-fil-A's internal ServiceNow platform team, supporting three client-side Product Owners rather than owning a product line independently. My work sits at the intersection of requirements gathering, story writing, and delivery coordination — the BA function underneath a PO title.
@@ -69,25 +55,25 @@ I'm embedded within Chick-fil-A's internal ServiceNow platform team, supporting 
 Day to day, I also facilitate Scrum ceremonies, train service desk and end-user teams, and coordinate with staff augmentation vendors to scale support capacity.
 
 ### Senior Director, Digital Applications Support
-**iHeartMedia** — Cincinnati, OH
+**iHeartMedia** - Cincinnati, OH\
 *January 2002 to July 2021*
 
-Fifteen+ years leading digital applications support operations across a distributed, multi-site organization — starting as an individual contributor and growing into a senior leadership role overseeing consistent service delivery, rapid incident resolution, and minimal downtime across geographically dispersed teams.
+Nearly 20 years leading digital applications support operations across a distributed, multi-site organization — starting as an individual contributor and growing into a senior leadership role overseeing consistent service delivery, rapid incident resolution, and minimal downtime across geographically dispersed teams.
 
 - Coached and developed technical teams, building high-performing groups through structured feedback and career development planning
 - Spearheaded API integrations that improved cross-functional process efficiency by 25%
 - Implemented automation strategies that boosted team productivity and operational scalability across podcast and digital platforms
 - Designed security measures that meaningfully reduced risk to sensitive company data
 - Recipient of the iHeartRadio Rockstar Award (2016)
-  
+
 ---
 
 ## Education
 
-**Bachelor of Science, Information Technology**
-Southern New Hampshire University
+**Bachelor of Science, Information Technology**\
+Summa Cum Laude\
+Southern New Hampshire University\
 *August 2015 to May 2020*
-Grade: Summa Cum Laude
 
 ---
 
