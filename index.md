@@ -26,41 +26,68 @@ Cincinnati, OH\
 
 ## Summary
 
-Results-driven Senior Technical Business Analyst and Technology Operations Leader with 20+ years of experience delivering enterprise implementations, systems integrations, UAT leadership, and phased deployment initiatives in complex environments. Proven ability to translate business requirements into scalable technical solutions, align cross-functional stakeholders, and drive high-quality releases with minimal operational disruption. Deep expertise in ServiceNow, API integrations, Jira workflow optimization, data migration, and Agile delivery, with a strong record of improving processes, accelerating issue resolution, and enhancing business performance through technology transformation.
+Product Owner/Business Analyst with 20 years of experience spanning technical operations leadership and Agile delivery. Currently embedded on Chick-fil-A's ServiceNow platform team via Amdocs Studios, where I support three client-side Product Owners across requirements gathering, story writing, and end-to-end delivery for ServiceNow and API integration initiatives.
+
+Before Amdocs, I spent 15 years at iHeartMedia leading distributed technical support operations, eventually as Senior Director, Digital Applications Support — building and scaling teams, driving process automation, and keeping digital platforms running across a geographically dispersed organization.
+
+I like taking ambiguous, messy problems and turning them into systems that actually work. My favorite kind of project starts with "nobody quite owns this yet" and ends with a clear, documented process someone else can run without me in the room.
+
+CSPO and ServiceNow CSA certified. Bachelor's in Information Technology (Summa Cum Laude), Southern New Hampshire University.
+---
+
+## Work Experience
+
+### Product Owner / Senior Technical Business Analyst  
+## Summary
+
+Product Owner/Business Analyst with 20 years of experience spanning technical operations leadership and Agile delivery. Currently embedded on Chick-fil-A's ServiceNow platform team via Amdocs Studios, where I support three client-side Product Owners across requirements gathering, story writing, and end-to-end delivery for ServiceNow and API integration initiatives.
+
+Before Amdocs, I spent 15 years at iHeartMedia leading distributed technical support operations, eventually as Senior Director, Digital Applications Support — building and scaling teams, driving process automation, and keeping digital platforms running across a geographically dispersed organization.
+
+I like taking ambiguous, messy problems and turning them into systems that actually work. My favorite kind of project starts with "nobody quite owns this yet" and ends with a clear, documented process someone else can run without me in the room.
+
+CSPO and ServiceNow CSA certified. Bachelor's in Information Technology (Summa Cum Laude), Southern New Hampshire University.
 
 ---
 
 ## Work Experience
 
-### Associate Product Owner / Senior Technical Business Analyst  
-**Amdocs Studios** — Cincinnati, OH  
+### Product Owner / Business Analyst
+**Amdocs Studios** — Cincinnati, OH (embedded with Chick-fil-A, Inc.)
 *August 2021 to Present*
 
-- Implemented the strategic vision for ServiceNow and API integrations at Chick-fil-A, aligning product roadmaps with business objectives to enhance customer satisfaction.
-- Proactively designed, maintained, and enhanced Jira workflow automations that reduced manual work and streamlined recurring processes, enabling the team to deliver more impactful work on time with greater accuracy and efficiency.
-- Took ownership of user stories from requirements gathering through UAT and to a clear Definition of Done with minimal guidance, consistently bridging business needs and technical delivery while supporting high-quality releases.
-- Drove process automation initiatives that reduced support response times from two weeks to under 24 hours, significantly boosting operational efficiency.
-- Led Scrum ceremonies and facilitated stakeholder collaboration, translating complex requirements into actionable specifications and fostering reliable, high-performance delivery.
-- Directed training programs for service desk and end-user teams while collaborating with staff augmentation vendors, scaling support capacity and promoting continuous improvement.
-- Championed IT service transformation efforts, including process redesign, technology adoption roadmaps (with deepening ServiceNow expertise), and organizational change initiatives to support long-term business goals and client retention.
+I'm embedded within Chick-fil-A's internal ServiceNow platform team, supporting three client-side Product Owners rather than owning a product line independently. My work sits at the intersection of requirements gathering, story writing, and delivery coordination — the BA function underneath a PO title.
 
-### Senior Director, Digital Operations / Support Engineer
-**iHeartMedia** — Cincinnati, OH  
-*June 2015 to July 2021*
+**Selected work:**
 
-- Coached, mentored, and developed diverse technical teams, building high-performing groups through performance feedback, career development planning, and promotion of inclusive collaboration.
-- Led IT support operations in distributed and multi-site environments, ensuring consistent service delivery, rapid incident resolution, and minimal downtime across geographically dispersed teams and locations.
-- Spearheaded API integrations to streamline support systems, improving process efficiency by 25%, and promoting coordination across cross-functional teams.
-- Implemented automation strategies, boosting team productivity and operational scalability for podcast and digital platforms.
-- Designed security measures to protect sensitive data, significantly reducing risks to company assets.
+- **Delivery logistics incident reporting system** — Led a multi-month initiative to design a unified issue-escalation system for distribution centers, covering intake categorization, assignment routing, priority-based SLAs, and contact mapping. Refactored the category hierarchy to eliminate ambiguous routing paths. The system is staged for pilot.
+- **Snyk OAuth 2.0 migration** — Gathered requirements and wrote the Jira stories to migrate our Snyk integration from static API tokens to OAuth 2.0 with dynamic group admin assignment via the Snyk API. My role was requirements and coordination — the engineering team owned implementation.
+- **Jira workflow automation** — Designed and maintained automations that reduced manual processing and streamlined recurring team processes, freeing up capacity for higher-value work.
+- **Process automation for support response** — Contributed to initiatives that cut support response times from two weeks to under 24 hours.
+- Additional work: Advanced Work Assignment CSM build, international travel operations support, employee onboarding workflows, the Walk Up Experience portal, and Five9/Record Producer troubleshooting.
+
+Day to day, I also facilitate Scrum ceremonies, train service desk and end-user teams, and coordinate with staff augmentation vendors to scale support capacity.
+
+### Senior Director, Digital Applications Support
+**iHeartMedia** — Cincinnati, OH
+*January 2002 to July 2021*
+
+Fifteen+ years leading digital applications support operations across a distributed, multi-site organization — starting as an individual contributor and growing into a senior leadership role overseeing consistent service delivery, rapid incident resolution, and minimal downtime across geographically dispersed teams.
+
+- Coached and developed technical teams, building high-performing groups through structured feedback and career development planning
+- Spearheaded API integrations that improved cross-functional process efficiency by 25%
+- Implemented automation strategies that boosted team productivity and operational scalability across podcast and digital platforms
+- Designed security measures that meaningfully reduced risk to sensitive company data
+- Recipient of the iHeartRadio Rockstar Award (2016)
   
 ---
 
 ## Education
 
-**Bachelor's Degree in Information Technology**  
-Southern New Hampshire University — Manchester, NH  
+**Bachelor of Science, Information Technology**
+Southern New Hampshire University
 *August 2015 to May 2020*
+Grade: Summa Cum Laude
 
 ---
 
