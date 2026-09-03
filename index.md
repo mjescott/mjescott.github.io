@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Certified Scrum Product Owner® / Certified ServiceNow System Administrator / Business Systems Analyst / Agile Delivery**  
+**Advanced Certified Scrum Product Owner® / Certified ServiceNow System Administrator / Business Systems Analyst / Agile Delivery**  
 Cincinnati, OH\
 <sub>_Updated: {{ site.time | date: "%B %-d, %Y" }}_</sub>
 
