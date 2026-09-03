@@ -10,9 +10,9 @@ Cincinnati, OH\
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   
-  <a href="https://bcert.me/sojvbkeip" target="_blank" rel="noopener">
-    <img src="{{ site.cspo_img }}" 
-         alt="Certified Scrum Product Owner (CSPO)" 
+  <a href="https://bcert.me/sipaxmres" target="_blank" rel="noopener">
+    <img src="{{ site.acspo_img }}" 
+         alt="Advanced Certified Scrum Product Owner®" 
          style="max-width: 220px; height: auto;">
   </a>
   
@@ -32,7 +32,7 @@ Before Amdocs, I spent nearly 20 years at iHeartMedia leading distributed techni
 
 I like taking ambiguous, messy problems and turning them into systems that actually work. My favorite kind of project starts with "nobody quite owns this yet" and ends with a clear, documented process someone else can run without me in the room.
 
-CSPO and ServiceNow CSA certified. Bachelor's in Information Technology (Summa Cum Laude), Southern New Hampshire University.
+A-CSPO and ServiceNow CSA certified. Bachelor's in Information Technology (Summa Cum Laude), Southern New Hampshire University.
 
 ---
 
@@ -88,12 +88,16 @@ Southern New Hampshire University\
 
 ## Certifications and Licenses
 
+### Advanced Certified Scrum Product Owner® (A-CSPO)
+*September 2026 to September 2028*
+Issued by [ScrumAlliance](https://bcert.me/sipaxmres)
+
 ### ServiceNow Certified System Administrator (CSA)
 *April 2026 to April 2027*
 Issued by [ServiceNow](https://www.credly.com/badges/b696e1c2-eceb-404c-88a6-8aaa976201b6/public_url)
 
 ### Certified Scrum Product Owner® (CSPO)
-*September 2024 to September 2026*  
+*September 2026 to September 2028*  
 Issued by [ScrumAlliance](https://bcert.me/sojvbkeip)  
 Maximizes product value through effective backlog management and prioritization, collaborates with stakeholders to align the product vision with business goals. Develops clear user stories, participates in sprint planning, and fosters a collaborative environment to drive success and ensure team alignment.  
 
